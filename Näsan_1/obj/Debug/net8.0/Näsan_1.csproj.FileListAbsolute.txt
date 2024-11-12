@@ -1,0 +1,15 @@
+c:\Users\julius.john\Documents\Prog_2\Näsan 1\Näsan_1\bin\Debug\net8.0\Näsan_1.exe
+c:\Users\julius.john\Documents\Prog_2\Näsan 1\Näsan_1\bin\Debug\net8.0\Näsan_1.deps.json
+c:\Users\julius.john\Documents\Prog_2\Näsan 1\Näsan_1\bin\Debug\net8.0\Näsan_1.runtimeconfig.json
+c:\Users\julius.john\Documents\Prog_2\Näsan 1\Näsan_1\bin\Debug\net8.0\Näsan_1.dll
+c:\Users\julius.john\Documents\Prog_2\Näsan 1\Näsan_1\bin\Debug\net8.0\Näsan_1.pdb
+c:\Users\julius.john\Documents\Prog_2\Näsan 1\Näsan_1\obj\Debug\net8.0\Näsan_1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\julius.john\Documents\Prog_2\Näsan 1\Näsan_1\obj\Debug\net8.0\Näsan_1.AssemblyInfoInputs.cache
+c:\Users\julius.john\Documents\Prog_2\Näsan 1\Näsan_1\obj\Debug\net8.0\Näsan_1.AssemblyInfo.cs
+c:\Users\julius.john\Documents\Prog_2\Näsan 1\Näsan_1\obj\Debug\net8.0\Näsan_1.csproj.CoreCompileInputs.cache
+c:\Users\julius.john\Documents\Prog_2\Näsan 1\Näsan_1\obj\Debug\net8.0\Näsan_1.sourcelink.json
+c:\Users\julius.john\Documents\Prog_2\Näsan 1\Näsan_1\obj\Debug\net8.0\Näsan_1.dll
+c:\Users\julius.john\Documents\Prog_2\Näsan 1\Näsan_1\obj\Debug\net8.0\refint\Näsan_1.dll
+c:\Users\julius.john\Documents\Prog_2\Näsan 1\Näsan_1\obj\Debug\net8.0\Näsan_1.pdb
+c:\Users\julius.john\Documents\Prog_2\Näsan 1\Näsan_1\obj\Debug\net8.0\Näsan_1.genruntimeconfig.cache
+c:\Users\julius.john\Documents\Prog_2\Näsan 1\Näsan_1\obj\Debug\net8.0\ref\Näsan_1.dll
