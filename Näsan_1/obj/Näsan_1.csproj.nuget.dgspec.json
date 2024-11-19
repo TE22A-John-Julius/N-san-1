@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julius.john\\Documents\\Prog_2\\Näsan 1\\Näsan_1\\Näsan_1.csproj": {}
+    "c:\\Users\\julius.john\\Documents\\Prog_2\\Näsan 1\\Näsan_1\\Näsan_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julius.john\\Documents\\Prog_2\\Näsan 1\\Näsan_1\\Näsan_1.csproj": {
+    "c:\\Users\\julius.john\\Documents\\Prog_2\\Näsan 1\\Näsan_1\\Näsan_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julius.john\\Documents\\Prog_2\\Näsan 1\\Näsan_1\\Näsan_1.csproj",
+        "projectUniqueName": "c:\\Users\\julius.john\\Documents\\Prog_2\\Näsan 1\\Näsan_1\\Näsan_1.csproj",
         "projectName": "Näsan_1",
-        "projectPath": "C:\\Users\\julius.john\\Documents\\Prog_2\\Näsan 1\\Näsan_1\\Näsan_1.csproj",
+        "projectPath": "c:\\Users\\julius.john\\Documents\\Prog_2\\Näsan 1\\Näsan_1\\Näsan_1.csproj",
         "packagesPath": "C:\\Users\\julius.john\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julius.john\\Documents\\Prog_2\\Näsan 1\\Näsan_1\\obj\\",
+        "outputPath": "c:\\Users\\julius.john\\Documents\\Prog_2\\Näsan 1\\Näsan_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
